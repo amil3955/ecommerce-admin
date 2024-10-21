@@ -2,15 +2,6 @@
 
 The Ecommerce Admin Dashboard is a tool designed specifically for managing an online store's essentials: products, orders, and customers. It's all about making life simpler for admins, helping them get things done smoothly and efficiently.
 
-![Page screenshot](https://ecommerce-admin-board.vercel.app/assets/page-screenshot.png)
-
-## Table of contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Contribution](#contribution)
-- [Contact](#contact)
 
 ## Features
 
@@ -31,13 +22,13 @@ To run Ecommerce Admin Dashboard locally, follow these steps:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/taiwo-adewale/ecommerce-admin.git
+git clone https://github.com/amil3955/ecommerce-admin-dashboard.git
 ```
 
 ### Navigate to the project directory:
 
 ```bash
-cd ecommerce-admin
+cd ecommerce-admin-dashboard
 ```
 
 ### Install dependencies:
@@ -63,6 +54,3 @@ We welcome contributions from the community. If you'd like to contribute to Ecom
 3. Make your changes, ensuring clear code and comments.
 4. Submit a pull request, describing your changes in detail.
 
-## Contact
-
-For questions, feedback, or inquiries, feel free to reach out to us at [adewaletaiwo08@gmail.com](mailto:adewaletaiwo08@gmail.com).
